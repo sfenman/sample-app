@@ -1,2 +1,2 @@
 # sample-app
-A simple golang app for various purposes.
+A simple golang app for various purposes..
