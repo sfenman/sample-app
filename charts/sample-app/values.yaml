@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: sfenman/sample-app
+  repository: nginx
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "1.25"
 
 imagePullSecrets: []
 nameOverride: ""
